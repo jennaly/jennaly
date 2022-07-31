@@ -36,7 +36,7 @@ See [my website](https://jennaly.netlify.app) for more information!
         <a target="_blank" href="https://lexilearn.netlify.app/">
             <img src="https://github.com/jennaly/lexilearn-dictionary/blob/main/img/lexilearn.gif" width="100%"  alt="Lexi Learn Dictionary app demo"/>
         </a>
-        <br />
+        <br /><br />
         <p align="center">
           
   <a href="https://github.com/jennaly/lexilearn-dictionary" target="_blank" rel="noreferrer">
@@ -52,7 +52,7 @@ See [my website](https://jennaly.netlify.app) for more information!
         <a target="_blank" href="https://github.com/jennaly/egyptian-deities-api">
           <img src="https://github.com/jennaly/jennaly/blob/main/egyptianDeities.png" width="100%"  alt="egyptian deities API demo"/>
         </a>
-      <br />
+      <br /><br />
         <p align="center">
   <a href="https://github.com/jennaly/egyptian-deities-api" target="_blank">
     <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=yellow" alt="link to repository" height ="25px"></a> 
@@ -71,7 +71,7 @@ See [my website](https://jennaly.netlify.app) for more information!
       <a target="_blank" href="https://ocspacecamp.netlify.app/">
             <img src="https://github.com/jennaly/jennaly/blob/main/ocspacecamp-demo.gif" width="100%"  alt="OC Space Camp web app demo"/>
         </a>
-        <br />
+        <br /><br />
         <p align="center">
           
   <a href="https://github.com/jennaly/oc-spacecamp" target="_blank">
@@ -89,7 +89,7 @@ See [my website](https://jennaly.netlify.app) for more information!
         <a target="_blank" href="https://bojack-quotes.her">
         <img width="100%"  alt="bojack-quotes" src="https://user-images.githubusercontent.com/106183040/182041140-cfe894d3-2f54-4e21-a329-0b6fa91e23a3.png">
         </a>
-        <br />
+        <br /><br />
         <p align="center">
           
   <a href="https://github.com/jennaly/bojack-quotes" target="_blank">
