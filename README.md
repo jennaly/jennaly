@@ -34,7 +34,7 @@ See [my website](https://jennaly.netlify.app) for more information!
       <h3 align="center">Lexi Learn Illustrated Dictionary</h3>
         <br />
         <a target="_blank" href="https://lexilearn.netlify.app/">
-            <img src="https://github.com/jennaly/lexilearn-dictionary/blob/main/img/lexilearn.gif" width="100%" height="270px" alt="Lexi Learn Dictionary app demo"/>
+            <img src="https://github.com/jennaly/lexilearn-dictionary/blob/main/img/lexilearn.gif" width="100%"  alt="Lexi Learn Dictionary app demo"/>
         </a>
         <br />
         <p align="center">
@@ -50,7 +50,7 @@ See [my website](https://jennaly.netlify.app) for more information!
       <h3 align="center">Ancient Egypt Deities API</h3>
       <br />
         <a target="_blank" href="https://github.com/jennaly/egyptian-deities-api">
-          <img src="https://github.com/jennaly/jennaly/blob/main/egyptianDeities.png" width="100%" height="270px" alt="egyptian deities API demo"/>
+          <img src="https://github.com/jennaly/jennaly/blob/main/egyptianDeities.png" width="100%"  alt="egyptian deities API demo"/>
         </a>
       <br />
         <p align="center">
@@ -69,7 +69,7 @@ See [my website](https://jennaly.netlify.app) for more information!
       <h3 align="center">Orange County Space Camp</h3>
         <br />
       <a target="_blank" href="https://ocspacecamp.netlify.app/">
-            <img src="https://github.com/jennaly/jennaly/blob/main/ocspacecamp-demo.gif" width="100%" height="270px" alt="OC Space Camp web app demo"/>
+            <img src="https://github.com/jennaly/jennaly/blob/main/ocspacecamp-demo.gif" width="100%"  alt="OC Space Camp web app demo"/>
         </a>
         <br />
         <p align="center">
@@ -87,7 +87,7 @@ See [my website](https://jennaly.netlify.app) for more information!
       <h3 align="center">Bojack Horseman Quotes</h3>
         <br />
         <a target="_blank" href="https://bojack-quotes.her">
-        <img width="100%" height="270px" alt="bojack-quotes" src="https://user-images.githubusercontent.com/106183040/182041140-cfe894d3-2f54-4e21-a329-0b6fa91e23a3.png">
+        <img width="100%"  alt="bojack-quotes" src="https://user-images.githubusercontent.com/106183040/182041140-cfe894d3-2f54-4e21-a329-0b6fa91e23a3.png">
         </a>
         <br />
         <p align="center">
