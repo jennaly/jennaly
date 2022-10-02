@@ -69,8 +69,8 @@ See [my website](https://jennaly.netlify.app) for more information!
       <h3 align="center">Orange County Space Camp</h3>
         <br />
       <a target="_blank" href="https://ocspacecamp.netlify.app/">
-            <img src="https://github.com/jennaly/jennaly/blob/main/ocspacecamp-demo.gif" width="100%"  alt="OC Space Camp web app demo"/>
-        </a>
+        <img width="1440" alt="ocspacecamp" src="https://user-images.githubusercontent.com/106183040/193476661-493aa9bf-d9a6-4b39-8a56-4f7e38eaa7b8.png"  alt="OC Space Camp web app demo"/>
+      </a>
         <br /><br />
         <p align="center">
           
