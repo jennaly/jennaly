@@ -34,7 +34,7 @@ See [my website](https://jennaly.netlify.app) for more information!
       <h3 align="center">Lexi Learn Illustrated Dictionary</h3>
         <br />
         <a target="_blank" href="https://lexilearn.netlify.app/">
-            <img src="https://github.com/jennaly/lexilearn-dictionary/blob/main/img/lexilearn.gif" width="100%"  alt="Lexi Learn Dictionary app demo"/>
+           <img width="100%" alt="lexillearn" src="https://user-images.githubusercontent.com/106183040/193477042-2dff04c8-6843-4dd7-bfc9-2ec15c55d1b1.png" alt="LexiLearn Demo"/>
         </a>
         <br /><br />
         <p align="center">
