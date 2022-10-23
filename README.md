@@ -31,6 +31,22 @@ See [my website](https://jennaly.netlify.app) for more information!
   
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">PriceKicks</h3>
+        <br />
+        <a target="_blank" href="https://pricekicks.jennaly.net/">
+           <img width="1440" alt="pricekicks-demo" src="https://user-images.githubusercontent.com/106183040/197405532-1ee3aae3-8a2b-4110-9f99-0e9f26eb806f.png" alt="Pricekicks Demo" />
+        </a>
+        <br /><br />
+        <p align="center">
+          
+  <a href="https://github.com/jennaly/pricekicks" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=yellow" alt="link to repository" height ="25px"></a> 
+  <a href="https://pricekicks.jennaly.net/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-live%20site-yellow?style=flat-square" alt="link to live project" height="25px"></a>
+        </p>
+         <p align="center"><strong>Node, Express, Axios, MongoDB, Passport, Tailwind</strong></p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">Lexi Learn Illustrated Dictionary</h3>
         <br />
         <a target="_blank" href="https://lexilearn.netlify.app/">
@@ -41,27 +57,10 @@ See [my website](https://jennaly.netlify.app) for more information!
           
   <a href="https://github.com/jennaly/lexilearn-dictionary" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=yellow" alt="link to repository" height ="25px"></a> 
-  <a href="https://https://lexilearn.netlify.app/" target="_blank" rel="noreferrer">
+  <a href="https://lexilearn.netlify.app/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-live%20site-yellow?style=flat-square" alt="link to live project" height="25px"></a>
         </p>
          <p align="center"><strong>OwlBot API Integration, Node, Express, JS, HTML & CSS</strong></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Ancient Egypt Deities API</h3>
-      <br />
-        <a target="_blank" href="https://github.com/jennaly/egyptian-deities-api">
-          <img src="https://github.com/jennaly/jennaly/blob/main/egyptianDeities.png" width="100%"  alt="egyptian deities API demo"/>
-        </a>
-      <br /><br />
-        <p align="center">
-  <a href="https://github.com/jennaly/egyptian-deities-api" target="_blank">
-    <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=yellow" alt="link to repository" height ="25px"></a> 
-  </a>
-  <a href="https://egyptian-deities.herokuapp.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-live%20site-yellow?style=flat-square" alt="link to live project" height="25px"></a>
-  </a>
-      </p>
-        <p align="center"><strong>Node, Express, JS, HTML & CSS</strong></p>
     </td>
   </tr>
   <tr>
@@ -84,21 +83,21 @@ See [my website](https://jennaly.netlify.app) for more information!
       <p align="center"><strong>NASA API integration, JS, HTML & CSS</strong></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Bojack Horseman Quotes</h3>
-        <br />
-        <a target="_blank" href="https://bojack-quotes.her">
-        <img width="100%"  alt="bojack-quotes" src="https://user-images.githubusercontent.com/106183040/182041140-cfe894d3-2f54-4e21-a329-0b6fa91e23a3.png">
+      <h3 align="center">Ancient Egypt Deities API</h3>
+      <br />
+        <a target="_blank" href="https://github.com/jennaly/egyptian-deities-api">
+          <img src="https://github.com/jennaly/jennaly/blob/main/egyptianDeities.png" width="100%"  alt="egyptian deities API demo"/>
         </a>
-        <br /><br />
+      <br /><br />
         <p align="center">
-          
-  <a href="https://github.com/jennaly/bojack-quotes" target="_blank">
-  <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=yellow" alt="link to repository" height ="25px"></a> 
+  <a href="https://github.com/jennaly/egyptian-deities-api" target="_blank">
+    <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=yellow" alt="link to repository" height ="25px"></a> 
   </a>
-  <a href="https://https://bojack-horseman-quotes.herokuapp.com" target="_blank">
-    <img src="https://img.shields.io/badge/-live%20site-yellow?style=flat-square" alt="link to live site" height="25px"></a>
+  <a href="https://egyptian-deities.herokuapp.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-live%20site-yellow?style=flat-square" alt="link to live project" height="25px"></a>
+  </a>
       </p>
-        <p align="center"><strong>Node, Express, MongoDB, JS, HTML & CSS</strong></p>
+        <p align="center"><strong>Node, Express, JS, HTML & CSS</strong></p>
     </td>
   </tr>
 </table>
