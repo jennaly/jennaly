@@ -93,7 +93,7 @@ See [my website](https://jennaly.netlify.app) for more information!
   <a href="https://github.com/jennaly/egyptian-deities-api" target="_blank">
     <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=yellow" alt="link to repository" height ="25px"></a> 
   </a>
-  <a href="https://egyptian-deities.herokuapp.com/" target="_blank">
+  <a href="https://egyptian-deities.cyclic.app/" target="_blank">
     <img src="https://img.shields.io/badge/-live%20site-yellow?style=flat-square" alt="link to live project" height="25px"></a>
   </a>
       </p>
