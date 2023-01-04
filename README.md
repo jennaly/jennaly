@@ -47,59 +47,23 @@ See [my website](https://jennaly.netlify.app) for more information!
          <p align="center"><strong>Node, Express, Axios, MongoDB, Passport, Tailwind</strong></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Lexi Learn Illustrated Dictionary</h3>
+      <h3 align="center">Innisfree Skincare</h3>
         <br />
         <a target="_blank" href="https://lexilearn.netlify.app/">
-           <img width="100%" alt="lexillearn" src="https://user-images.githubusercontent.com/106183040/193477042-2dff04c8-6843-4dd7-bfc9-2ec15c55d1b1.png" alt="LexiLearn Demo"/>
+        <img width="100%" alt="skincare e-commerce project" src="https://user-images.githubusercontent.com/106183040/210667802-54a153a2-4bf3-444e-8098-be741a3755c8.png"/>
         </a>
         <br /><br />
         <p align="center">
           
-  <a href="https://github.com/jennaly/lexilearn-dictionary" target="_blank" rel="noreferrer">
+  <a href="https://github.com/jennaly/innisfree-skincare" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=yellow" alt="link to repository" height ="25px"></a> 
-  <a href="https://lexilearn.netlify.app/" target="_blank" rel="noreferrer">
+  <a href="https://innisfree-skincare.vercel.app/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-live%20site-yellow?style=flat-square" alt="link to live project" height="25px"></a>
         </p>
-         <p align="center"><strong>OwlBot API Integration, Node, Express, JS, HTML & CSS</strong></p>
+         <p align="center"><strong>React, Next.js, Sanity, Tailwind</strong></p>
     </td>
   </tr>
-  <tr>
-        <td width="50%" valign="top">
-      <h3 align="center">Orange County Space Camp</h3>
-        <br />
-      <a target="_blank" href="https://ocspacecamp.netlify.app/">
-        <img width="100%" alt="ocspacecamp" src="https://user-images.githubusercontent.com/106183040/193491287-f892b519-1e60-4e55-abad-b887beb2fb75.png">
-      </a>
-        <br /><br />
-        <p align="center">
-          
-  <a href="https://github.com/jennaly/oc-spacecamp" target="_blank">
-    <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=yellow" alt="link to repository" height ="25px"></a> 
-  </a>
-  <a href="https://ocspacecamp.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-live%20site-yellow?style=flat-square" alt="link to live site" height="25px"></a>
-  </a>
-      </p>
-      <p align="center"><strong>NASA API integration, JS, HTML & CSS</strong></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Ancient Egypt Deities API</h3>
-      <br />
-        <a target="_blank" href="https://github.com/jennaly/egyptian-deities-api">
-          <img src="https://github.com/jennaly/jennaly/blob/main/egyptianDeities.png" width="100%"  alt="egyptian deities API demo"/>
-        </a>
-      <br /><br />
-        <p align="center">
-  <a href="https://github.com/jennaly/egyptian-deities-api" target="_blank">
-    <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=yellow" alt="link to repository" height ="25px"></a> 
-  </a>
-  <a href="https://egyptian-deities.cyclic.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-live%20site-yellow?style=flat-square" alt="link to live project" height="25px"></a>
-  </a>
-      </p>
-        <p align="center"><strong>Node, Express, JS, HTML & CSS</strong></p>
-    </td>
-  </tr>
+
 </table>
 
 
