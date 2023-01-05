@@ -82,23 +82,3 @@ See [my website](https://jennaly.netlify.app) for more information!
     <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white"/>
 </p>
 
-
-
-<h1 align="center">Connect</h1>
-<p align="center">
-  <a href="https://jennaly.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=yellow&style=flat&logo=webflow&logo-color=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/jennaly/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=yellow&style=flat&logo=linkedin&logo-color=white"/>
-  </a>
-  <a href="https://twitter.com/jennaly__" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=yellow&style=flat&logo=twitter&logo-color=white"/>
-  </a>
-  <a href="https://angel.co/u/jenna-ly" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=yellow&style=flat&logo=angellist&logo-color=white"/>
-  </a>
-  <a href="https://jennaly.netlify.app/assets/Jenna%20Uyen%20Ly%20_%20Resume.docx.pdf" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=yellow&style=flat&logo=aboutdotme&logo-color=white"/>
-  </a> 
-</p>
