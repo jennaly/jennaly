@@ -27,6 +27,29 @@ See [my website](https://jennaly.netlify.app) for more information!
 
 <h1 align="center">Projects</h1>
 
+<table>
+ <tr>
+     <td width="100%" valign="top">
+      <h3 align="center">Lexi Learn Illustrated Dictionary</h3>
+        <br />
+        <a target="_blank" href="https://lexilearn.vercel.app/">
+           <img width="1440" alt="lexilearn-demo" src="https://user-images.githubusercontent.com/106183040/215362853-66b96271-2a44-445c-9531-db8767c93c07.png" alt="LexiLearn Demo" />
+        </a>
+        <br /><br />
+        <p align="center">
+          
+  <a href="https://github.com/jennaly/lexilearn" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=yellow" alt="link to repository" height ="25px"></a> 
+  <a href="https://lexilearn.vercel.app/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-live%20site-yellow?style=flat-square" alt="link to live project" height="25px"></a>
+        </p>
+         <p align="center"><strong>React, JSON Web Token, Node, Express, MongoDB, Tailwind</strong></p>
+    </td>
+  
+    
+  </tr>
+</table>
+
 <table bordercolor="#a3496a">
   
   <tr>
@@ -65,7 +88,6 @@ See [my website](https://jennaly.netlify.app) for more information!
   </tr>
 
 </table>
-
 
 <h1 align="center">Tech Stack</h1>
 
