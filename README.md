@@ -72,7 +72,7 @@ See [my website](https://jennaly.netlify.app) for more information!
     <td width="50%" valign="top">
       <h3 align="center">Innisfree Skincare</h3>
         <br />
-        <a target="_blank" href="https://lexilearn.netlify.app/">
+        <a target="_blank" href="https://innisfree-skincare.vercel.app/">
         <img width="100%" alt="skincare e-commerce project" src="https://user-images.githubusercontent.com/106183040/210667802-54a153a2-4bf3-444e-8098-be741a3755c8.png"/>
         </a>
         <br /><br />
