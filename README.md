@@ -13,14 +13,11 @@
   <a href="https://angel.co/u/jenna-ly" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=yellow&style=flat&logo=angellist&logo-color=white"/>
   </a>
-  <a href="https://jennaly.netlify.app/assets/Jenna%20Uyen%20Ly%20_%20Resume.docx.pdf" target="_blank">
+  <a href="https://drive.google.com/file/d/1YOSeLuBhqmnerk6WewadidrAXXkYIh7f/view?usp=sharing" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=yellow&style=flat&logo=aboutdotme&logo-color=white"/>
   </a> 
 </p>
-
-Solutions-oriented and task-driven software engineer with a keen eye for detail. Proficient in
-delivering high performance applications by writing efficient and scalable code compliant with
-industry best practices. Looking to join a positive working environment that promotes collaboration and innovation.
+I'm a software engineer based in California passionate about creating intuitive, accessible, and appealing user interfaces. I thrive in collaborative environments and enjoy tackling challenges alongside a team.
 
 See [my website](https://jennaly.netlify.app) for more information!
 
@@ -65,7 +62,7 @@ See [my website](https://jennaly.netlify.app) for more information!
   <a href="https://github.com/jennaly/pricekicks" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=yellow" alt="link to repository" height ="25px"></a> 
   <a href="https://www.linkedin.com/posts/jennaly_this-is-my-most-recent-project-pricekicks-activity-6990748458219425792-Obn6?utm_source=share&utm_medium=member_desktop" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-live%20site-yellow?style=flat-square" alt="link to demo" height="25px"></a>
+    <img src=https://img.shields.io/badge/-demo-yellow?style=flat-square alt="link to demo" height="25px"></a>
         </p>
          <p align="center"><strong>Node, Express, Axios, MongoDB, Passport, Tailwind</strong></p>
     </td>
