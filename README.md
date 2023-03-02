@@ -56,7 +56,7 @@ See [my website](https://jennaly.netlify.app) for more information!
     <td width="50%" valign="top">
       <h3 align="center">PriceKicks</h3>
         <br />
-        <a target="_blank" href="https://pricekicks.jennaly.net/">
+        <a target="_blank" href="https://www.linkedin.com/posts/jennaly_this-is-my-most-recent-project-pricekicks-activity-6990748458219425792-Obn6?utm_source=share&utm_medium=member_desktop">
            <img width="1440" alt="pricekicks-demo" src="https://user-images.githubusercontent.com/106183040/197405532-1ee3aae3-8a2b-4110-9f99-0e9f26eb806f.png" alt="Pricekicks Demo" />
         </a>
         <br /><br />
@@ -64,8 +64,8 @@ See [my website](https://jennaly.netlify.app) for more information!
           
   <a href="https://github.com/jennaly/pricekicks" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-repo-efefef?style=flat-square&logo=github&logoColor=yellow" alt="link to repository" height ="25px"></a> 
-  <a href="https://pricekicks.jennaly.net/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-live%20site-yellow?style=flat-square" alt="link to live project" height="25px"></a>
+  <a href="https://www.linkedin.com/posts/jennaly_this-is-my-most-recent-project-pricekicks-activity-6990748458219425792-Obn6?utm_source=share&utm_medium=member_desktop" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-live%20site-yellow?style=flat-square" alt="link to demo" height="25px"></a>
         </p>
          <p align="center"><strong>Node, Express, Axios, MongoDB, Passport, Tailwind</strong></p>
     </td>
