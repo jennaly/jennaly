@@ -17,9 +17,7 @@
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=yellow&style=flat&logo=aboutdotme&logo-color=white"/>
   </a> 
 </p>
-I'm a software engineer based in California passionate about creating intuitive, accessible, and appealing user interfaces. I thrive in collaborative environments and enjoy tackling challenges alongside a team.
-
-See [my website](https://jennaly.netlify.app) for more information!
+I'm a software engineer based in California passionate about creating intuitive, accessible, and appealing user interfaces. I thrive in collaborative environments and enjoy tackling challenges alongside a team. I'm looking to bring my background in economics and experience in freelancing to a company with global reach. Check out my work below or see my portfolio at https://jennaly.netlify.app for more information!
 
 
 <h1 align="center">Projects</h1>
