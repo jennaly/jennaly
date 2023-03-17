@@ -17,7 +17,7 @@
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=yellow&style=flat&logo=aboutdotme&logo-color=white"/>
   </a> 
 </p>
-I'm a software engineer based in California passionate about creating intuitive, accessible, and appealing user interfaces. I thrive in collaborative environments and enjoy tackling challenges alongside a team. I'm looking to bring my background in economics and experience in freelancing to a company with global reach. Check out my work below or see my portfolio at https://jennaly.netlify.app for more information!
+As a software engineer, I am driven by my passion for designing intuitive, accessible, and visually appealing user interfaces. Over the years, I have leveraged my expertise to help numerous nonprofit organizations and businesses establish their online presence by delivering dynamic and responsive web applications. Currently, I am seeking to join a professional development team where I can contribute my technical abilities, creativity, and enthusiasm. Check out my work below or see my portfolio at https://jennaly.netlify.app for more information!
 
 
 <h1 align="center">Projects</h1>
