@@ -1,24 +1,23 @@
 <p align='center'><img src="https://github.com/jennaly/jennaly/blob/main/banner.png" alt="Jenna Ly banner" style="width:100%"/></p>
 
-<p align="center">
-  <a href="https://jennaly.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=yellow&style=flat&logo=webflow&logo-color=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/jennaly/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=yellow&style=flat&logo=linkedin&logo-color=white"/>
-  </a>
-  <a href="https://twitter.com/jennaly__" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=yellow&style=flat&logo=twitter&logo-color=white"/>
-  </a>
-  <a href="https://angel.co/u/jenna-ly" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=yellow&style=flat&logo=angellist&logo-color=white"/>
-  </a>
-  <a href="https://drive.google.com/file/d/1YOSeLuBhqmnerk6WewadidrAXXkYIh7f/view?usp=sharing" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=yellow&style=flat&logo=aboutdotme&logo-color=white"/>
-  </a> 
-</p>
-As a software engineer, I am driven by my passion for designing intuitive, accessible, and visually appealing user interfaces. Over the years, I have leveraged my expertise to help numerous nonprofit organizations and businesses establish their online presence by delivering dynamic and responsive web applications. Currently, I am seeking to join a professional development team where I can contribute my technical abilities, creativity, and enthusiasm. Check out my work below or see my portfolio at https://jennaly.netlify.app for more information!
+As a software engineer, I am driven by my passion for designing intuitive, accessible, and visually appealing user interfaces. Over the years, I have leveraged my expertise to help numerous nonprofit organizations and businesses establish their online presence by delivering dynamic and responsive web applications. Check out my work below or see my portfolio at https://jennaly.netlify.app for more information!
 
+- 🦋 Currently a frontend developer at <a href="https://childrenscancer.org/.com">Children's Cancer Research Fund</a>
+
+- 💻 All of my projects are available at [https://jennaly.netlify.app](https://jennaly.netlify.app)
+
+- 📈 Have a background in Business and Economics 
+
+- 💡 Learning TypeScript and FramerMotion
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/jennaly__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter icon" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jennaly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn icon" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a></p>
 
 <h1 align="center">Projects</h1>
 
@@ -83,19 +82,4 @@ As a software engineer, I am driven by my passion for designing intuitive, acces
   </tr>
 
 </table>
-
-<h1 align="center">Tech Stack</h1>
-
-
-<p align="center">
-    <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"/>
-    <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB"/>
-    <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"/>
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7"/>
-    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white"/>
-</p>
 
