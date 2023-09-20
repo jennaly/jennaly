@@ -8,7 +8,7 @@ As a software engineer, I am driven by my passion for creating intuitive, access
 
 - 📈 Have a background in Business and Economics 
 
-- 💡 Learning TypeScript and SQL
+- 💡 Learning TypeScript and Next.js!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
