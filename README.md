@@ -1,4 +1,3 @@
-<p align='center'><img src="https://github.com/jennaly/jennaly/blob/main/banner.png" alt="Jenna Ly banner" style="width:100%"/></p>
 
 As a software engineer, I am driven by my passion for creating intuitive, accessible, and visually appealing user interfaces. Over the years, I have leveraged my expertise to help numerous nonprofit organizations and businesses establish their online presence by delivering dynamic and responsive web applications. Check out my work below or see my portfolio at https://jennaly.netlify.app for more information!
 
