@@ -1,7 +1,7 @@
 
-As a software engineer, I am driven by my passion for creating intuitive, accessible, and visually appealing user interfaces. Over the years, I have leveraged my expertise to help nonprofit organizations and businesses establish their online presence through dynamic and responsive web applications. Check out my work below or see my portfolio at https://jennaly.vercel.app for more information!
+As a software engineer, I am driven by my passion for creating intuitive, accessible, and visually appealing user interfaces. Over the years, I have leveraged my expertise to help nonprofit organizations and businesses establish their online presence through dynamic and responsive web applications. Check out my personal projects below or see my portfolio at https://jennaly.vercel.app for my professional development work that I've done recently for clients!
 
-- 💻 All of my projects are available at [https://jennaly.vercel.app](https://jennaly.vercel.app)
+- 💻 Some of my professional work are available at [https://jennaly.vercel.app](https://jennaly.vercel.app)
 
 - 📈 I have a background in Business and Economics 
 
