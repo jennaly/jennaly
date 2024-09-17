@@ -5,7 +5,7 @@ As a software engineer, I am driven by my passion for creating intuitive, access
 
 - 📈 I have a background in Business and Economics 
 
-- 💡 I'm currently looking to work with React, NextJS, and TypeScript in my next job opportunity
+- 💡 I am passionate about accessibility and inclusive design in tech
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
